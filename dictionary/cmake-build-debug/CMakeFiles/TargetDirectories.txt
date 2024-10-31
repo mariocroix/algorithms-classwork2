@@ -1,0 +1,3 @@
+/Users/mari/Desktop/ima3/algorithms-and-programming-languages/hw/classwork-2/ds-hashmap/cmake-build-debug/CMakeFiles/ds_hashmap.dir
+/Users/mari/Desktop/ima3/algorithms-and-programming-languages/hw/classwork-2/ds-hashmap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mari/Desktop/ima3/algorithms-and-programming-languages/hw/classwork-2/ds-hashmap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
